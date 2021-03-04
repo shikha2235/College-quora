@@ -1,1 +1,1 @@
-# slack-cha
+# slack-chat
